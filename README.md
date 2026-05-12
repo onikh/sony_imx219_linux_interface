@@ -1,4 +1,4 @@
-# Sony_IMX219_Linux_Interface
+# Sony IMX219 Camera Optimized Linux Interface
 
 Low-level Linux camera pipeline written in C++ and exposed to Python through a native CPython extension module.
 
